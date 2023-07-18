@@ -1,2 +1,7 @@
-# Old
-Repositório focado em projetos de quando comecei a programar
+# MeChamaDeCarinha/Old
+Apenas alguns projetos e jogos em C++
+
+- Batalha Naval
+- Calculadora
+- Jogo Incremental
+- Números Primos
